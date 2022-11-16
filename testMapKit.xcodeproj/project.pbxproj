@@ -11,6 +11,8 @@
 		F8AD6C5728920531000ED337 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AD6C5628920531000ED337 /* ContentView.swift */; };
 		F8AD6C5928920532000ED337 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8AD6C5828920532000ED337 /* Assets.xcassets */; };
 		F8AD6C5C28920532000ED337 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F8AD6C5B28920532000ED337 /* Preview Assets.xcassets */; };
+		F8AD6C6328920553000ED337 /* MapSearch.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AD6C6228920553000ED337 /* MapSearch.swift */; };
+		F8AD6C6528920FFA000ED337 /* SettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F8AD6C6428920FFA000ED337 /* SettingsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +21,8 @@
 		F8AD6C5628920531000ED337 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		F8AD6C5828920532000ED337 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		F8AD6C5B28920532000ED337 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		F8AD6C6228920553000ED337 /* MapSearch.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MapSearch.swift; sourceTree = "<group>"; };
+		F8AD6C6428920FFA000ED337 /* SettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -52,7 +56,9 @@
 			isa = PBXGroup;
 			children = (
 				F8AD6C5428920531000ED337 /* testMapKitApp.swift */,
+				F8AD6C6228920553000ED337 /* MapSearch.swift */,
 				F8AD6C5628920531000ED337 /* ContentView.swift */,
+				F8AD6C6428920FFA000ED337 /* SettingsView.swift */,
 				F8AD6C5828920532000ED337 /* Assets.xcassets */,
 				F8AD6C5A28920532000ED337 /* Preview Content */,
 			);
@@ -137,6 +143,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F8AD6C6328920553000ED337 /* MapSearch.swift in Sources */,
+				F8AD6C6528920FFA000ED337 /* SettingsView.swift in Sources */,
 				F8AD6C5728920531000ED337 /* ContentView.swift in Sources */,
 				F8AD6C5528920531000ED337 /* testMapKitApp.swift in Sources */,
 			);
